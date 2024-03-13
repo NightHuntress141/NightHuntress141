@@ -2,7 +2,7 @@
 
 
 
-- :cherry_blossom: Hello! I’m Rebecka Bocci and I'm a self-taught student.   
+- :cherry_blossom: Hello! I’m Rebecka (or just Becky) and I'm a self-taught student.   
 
 
 
