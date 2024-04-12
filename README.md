@@ -2,7 +2,10 @@
 
 
 
-- :cherry_blossom: Hello! I’m Rebecka (or just Becky) and I'm a self-taught student.   
+- :cherry_blossom: Hello! I’m Rebecka (or just Becky) and I'm a self-taught student;
+- :cherry_blossom: I'm majoring in Information Systems at USP (the best university of Latin America!);
+- :cherry_blossom: Already known: Python;
+- :cherry_blossom: Learning: CSS + HTML, Javascript and C;
 
 
 
