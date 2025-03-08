@@ -3,8 +3,8 @@
 
 - 🦇 Hello! I’m Rebecka (or just Becky) and I'm a self-taught student;
 - 🦇 I'm majoring in Information Systems at USP (the best university of Latin America!);
-- 🦇 Already known: Python;
-- 🦇 Learning: CSS + HTML, Javascript and C;
+- 🦇 Languages: C and Python;
+- 🦇 Learning: Data Science and Machine Learning.
 
 
  ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
